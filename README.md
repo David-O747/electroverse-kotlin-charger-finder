@@ -2,7 +2,7 @@
 
 A clean, safe Kotlin solution for processing messy EV charger data.
 
-**Live Demo:** [Paste your Kotlin Playground link here]
+**Live Demo:** https://pl.kotl.in/fuByQe6rp
 
 ## Features
 - Safe parsing of raw JSON-like data (`List<Map<String, Any?>>`)
